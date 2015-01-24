@@ -1,5 +1,10 @@
 # local configure
 /.idea/
+*.iml
 
 # out
 /out/
+
+# mac
+.DS_Store
+
