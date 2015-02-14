@@ -4,6 +4,7 @@
 
 # out
 /out/
+/target/
 
 # mac
 .DS_Store
